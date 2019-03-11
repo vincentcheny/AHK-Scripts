@@ -8,14 +8,13 @@ Collection of the AutoHotKey scripts written by myself
 
 
 ***
-# 极简下载器
+# SimpleDownloader
 ## How to use
-Just install [AutoHotKey](https://autohotkey.com/) and run with it. Everything is quite straight-forward though you might not know any about Chinese (:D). If you prefer to read in English indeed, please wait for the version to be released a little bit later.
+Just install [AutoHotKey](https://autohotkey.com/) and run with it. Everything is quite straight-forward even if you are not familiar with Chinese (:D).
 
 ## Features
 + Clipboard recognition and saved path checking
-+ Support FTP and Gopher URL
-+ Resume from breakpoint (to be tested)
++ Support FTP, Gopher URL and HTTP download
 
 ## ChangeLog
 0.1.0  
