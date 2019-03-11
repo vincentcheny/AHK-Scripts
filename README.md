@@ -4,10 +4,8 @@
 
 
   
-Collection of the AutoHotKey scripts written by myself
+Collection of the AutoHotKey scripts written by myself<html><br></html>
 
-
-***
 # SimpleDownloader
 ## How to use
 Just install [AutoHotKey](https://autohotkey.com/) and run with it. Everything is quite straight-forward even if you are not familiar with Chinese (:D).
